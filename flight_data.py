@@ -1,5 +1,5 @@
-TEQUILA_ENDPOINT = "https://tequila-api.kiwi.com"
-TEQUILA_API_KEY = "zu6SBCR2d0V4EIO_VO9u457jbELXAFVU"
+TEQUILA_ENDPOINT = ""
+TEQUILA_API_KEY = ""
 
 import requests
 import datetime
