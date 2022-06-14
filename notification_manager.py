@@ -1,5 +1,5 @@
-account_sid = "AC25aad92a99c628e1cc28a5e23947de08"
-auth_token = "b1838e19bbad4c8262f44ea066b279eb"
+account_sid = ""
+auth_token = ""
 
 from twilio.rest import Client
 from twilio.http.http_client import TwilioHttpClient
